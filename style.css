@@ -65,7 +65,7 @@ section{
     text-shadow: 1px 1px 1px black;
 }
 #primeira-imagem{
-    background: url(imagens/background001.jpg) right center no-repeat fixed;
+    background: url(imagens/background001.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 #segunda-imagem{
